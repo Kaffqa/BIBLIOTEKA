@@ -1,0 +1,6 @@
+{
+  "name": "BIBLIOTEKA — Sistem Informasi Perpustakaan & Katalog Modern",
+  "description": "Sistem Informasi Perpustakaan & Katalog Modern berstandar MARC21 dan Dewey Decimal Classification (DDC) dengan estetika Warm Tactile Academia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
